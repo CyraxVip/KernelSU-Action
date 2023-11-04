@@ -12,10 +12,10 @@ on:
     - cron: "50 9,21 * * *"
 
 env:
-  kernel_repository: PixelExperience-Devices/kernel_xiaomi_polaris
-  kernel_branch: thirteen
-  device: dipper
-  defconfig: dipper_defconfig
+  kernel_repository: RiskyGUY22/SM-A217F-Kernel
+  kernel_branch: A12-Stock-Patched
+  device: a21s
+  defconfig: a21s_defconfig
   use_aosp_clang: false
   clang_version: 15
 
