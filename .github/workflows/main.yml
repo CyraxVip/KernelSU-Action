@@ -14,8 +14,8 @@ on:
 env:
   kernel_repository: CyraxVip/android_kernel_samsung_a21s-common
   kernel_branch: lineage-18.1
-  device: exynos850-a21snsxx
-  defconfig: exynos850-a21snsxx_defconfig
+  device: exynos3830
+  defconfig: exynos3830.dts
   use_aosp_clang: false
   clang_version: 15
 
