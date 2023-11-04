@@ -14,8 +14,8 @@ on:
 env:
   kernel_repository: RiskyGUY22/SM-A217F-Kernel
   kernel_branch: A12-Stock-Patched
-  device: titan
-  defconfig: titan_defconfig
+  device: dipper
+  defconfig: dipper_defconfig
   use_aosp_clang: false
   clang_version: 15
 
