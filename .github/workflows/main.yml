@@ -14,8 +14,8 @@ on:
 env:
   kernel_repository: DozNaka/KawaKernel-A217X
   kernel_branch: A12
-  device: samsung/a21s
-  defconfig: exynos850-a21snsxx_defconfig
+  device: 
+  defconfig: 
   use_aosp_clang: false
   clang_version: 15
 
