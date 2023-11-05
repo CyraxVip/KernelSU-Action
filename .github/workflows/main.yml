@@ -14,7 +14,7 @@ on:
 env:
   kernel_repository: DozNaka/KawaKernel-A217X
   kernel_branch: A12
-  device: a21s
+  device: titan
   defconfig: kawa_defconfig
   use_aosp_clang: false
   clang_version: 15
