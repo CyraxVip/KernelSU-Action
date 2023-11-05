@@ -12,10 +12,10 @@ on:
     - cron: "50 9,21 * * *"
 
 env:
-  kernel_repository: CyraxVip/android_kernel_samsung_a21s-common
-  kernel_branch: lineage-18.1
-  device: exynos3830
-  defconfig: exynos3830.dts
+  kernel_repository: DozNaka/KawaKernel-A217X
+  kernel_branch: A12
+  device: a21s
+  defconfig: kawa_defconfig
   use_aosp_clang: false
   clang_version: 15
 
