@@ -14,8 +14,8 @@ on:
 env:
   kernel_repository: DozNaka/KawaKernel-A217X
   kernel_branch: A12
-  device: titan
-  defconfig: titan_defconfig
+  device: exynos850-a21snsxx
+  defconfig: exynos850-a21snsxx_defconfig
   use_aosp_clang: false
   clang_version: 15
 
