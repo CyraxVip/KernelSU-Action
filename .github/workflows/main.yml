@@ -12,7 +12,7 @@ on:
     - cron: "50 9,21 * * *"
 
 env:
-  kernel_repository: https://github.com/CyraxVip/a217f.git
+  kernel_repository: CyraxVip/a217f
   kernel_branch: main
   device: Physwizz-a21s
   defconfig: Physwizz-a21s_defconfig
