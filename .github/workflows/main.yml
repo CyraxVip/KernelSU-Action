@@ -12,10 +12,10 @@ on:
     - cron: "50 9,21 * * *"
 
 env:
-  kernel_repository: CyraxVip/android_kernel_samsung_a21s-common
-  kernel_branch: lineage-18.1
-  device: titan
-  defconfig: exynos850-a21snsxx_defconfig
+  kernel_repository: https://github.com/CyraxVip/a217f.git
+  kernel_branch: main
+  device: Physwizz-a21s
+  defconfig: Physwizz-a21s_defconfig
   use_aosp_clang: false
   clang_version: 15
 
