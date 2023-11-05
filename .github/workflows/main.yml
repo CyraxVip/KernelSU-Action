@@ -15,7 +15,7 @@ env:
   kernel_repository: DozNaka/KawaKernel-A217X
   kernel_branch: A12
   device: 
-  defconfig: 
+  defconfig: twrp_slim_defconfig
   use_aosp_clang: false
   clang_version: 15
 
