@@ -12,10 +12,10 @@ on:
     - cron: "50 9,21 * * *"
 
 env:
-  kernel_repository: CyraxVip/a217f
+  kernel_repository: physwizz/a217m-S-UA-v2
   kernel_branch: main
-  device: titan
-  defconfig: titan_defconfig
+  device: phiswizz
+  defconfig: phiswizz_defconfig
   use_aosp_clang: false
   clang_version: 15
 
